@@ -6,10 +6,9 @@ html-math-method:
   method: mathjax
   url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
 author:
-  - name: Your Name
-    orcid: 0000-0000-0000-0000
-    email: alias@email.com
-    affiliations: Your Institution
+  - name: Bradley McDonnell
+    email: mcdonn@hawaii.edu
+    affiliations: University of Hawai‘i at Mānoa
 date: last-modified
 ---
 
@@ -36,8 +35,8 @@ can be used with this theme, even if we don't highlight them here.
 Special classes for emphasis
 
 - `.alert` class for default emphasis, e.g. [important note]{.alert}.
-- `.fg` class for custom colour, e.g. [important note]{.fg style="--col: #e64173"}.
-- `.bg` class for custom background, e.g. [important note]{.bg style="--col: #e64173"}.
+- `.fg` class for custom colour, e.g. [important note]{.fg style="--col: #FF4081"}.
+- `.bg` class for custom background, e.g. [important note]{.bg style="--col: #FF4081"}.
 
 Cross-references
 
